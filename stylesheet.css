@@ -1,0 +1,6011 @@
+.sprite_light {
+    background-image: url(spritesheet.png)!important;
+    background-repeat: no-repeat!important;
+    display: inline-block;
+}
+
+.light-accept {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -3px!important;
+}
+
+.light-add {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -3px!important;
+}
+
+.light-anchor {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -3px!important;
+}
+
+.light-application {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -3px!important;
+}
+
+.light-application_add {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -3px!important;
+}
+
+.light-application_cascade {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -3px!important;
+}
+
+.light-application_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -3px!important;
+}
+
+.light-application_double {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -3px!important;
+}
+
+.light-application_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -3px!important;
+}
+
+.light-application_error {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -3px!important;
+}
+
+.light-application_form {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -3px!important;
+}
+
+.light-application_form_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -3px!important;
+}
+
+.light-application_form_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -3px!important;
+}
+
+.light-application_form_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -3px!important;
+}
+
+.light-application_form_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -3px!important;
+}
+
+.light-application_get {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -3px!important;
+}
+
+.light-application_go {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -3px!important;
+}
+
+.light-application_home {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -3px!important;
+}
+
+.light-application_key {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -3px!important;
+}
+
+.light-application_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -3px!important;
+}
+
+.light-application_link {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -3px!important;
+}
+
+.light-application_osx {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -3px!important;
+}
+
+.light-application_osx_terminal {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -3px!important;
+}
+
+.light-application_put {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -3px!important;
+}
+
+.light-application_side_boxes {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -3px!important;
+}
+
+.light-application_side_contract {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -3px!important;
+}
+
+.light-application_side_expand {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -3px!important;
+}
+
+.light-application_side_list {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -3px!important;
+}
+
+.light-application_side_tree {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -3px!important;
+}
+
+.light-application_split {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -3px!important;
+}
+
+.light-application_tile_horizontal {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -3px!important;
+}
+
+.light-application_tile_vertical {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -25px!important;
+}
+
+.light-application_view_columns {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -25px!important;
+}
+
+.light-application_view_detail {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -25px!important;
+}
+
+.light-application_view_gallery {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -25px!important;
+}
+
+.light-application_view_icons {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -25px!important;
+}
+
+.light-application_view_list {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -25px!important;
+}
+
+.light-application_view_tile {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -25px!important;
+}
+
+.light-application_xp {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -25px!important;
+}
+
+.light-application_xp_terminal {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -25px!important;
+}
+
+.light-arrow_branch {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -25px!important;
+}
+
+.light-arrow_divide {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -25px!important;
+}
+
+.light-arrow_down {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -25px!important;
+}
+
+.light-arrow_green {
+    width: 10px;
+    height: 9px;
+    background-position: -267px -25px!important;
+}
+
+.light-arrow_in {
+    width: 16px;
+    height: 16px;
+    background-position: -283px -25px!important;
+}
+
+.light-arrow_inout {
+    width: 16px;
+    height: 16px;
+    background-position: -305px -25px!important;
+}
+
+.light-arrow_join {
+    width: 16px;
+    height: 16px;
+    background-position: -327px -25px!important;
+}
+
+.light-arrow_left {
+    width: 16px;
+    height: 16px;
+    background-position: -349px -25px!important;
+}
+
+.light-arrow_merge {
+    width: 16px;
+    height: 16px;
+    background-position: -371px -25px!important;
+}
+
+.light-arrow_out {
+    width: 16px;
+    height: 16px;
+    background-position: -393px -25px!important;
+}
+
+.light-arrow_redo {
+    width: 16px;
+    height: 16px;
+    background-position: -415px -25px!important;
+}
+
+.light-arrow_refresh {
+    width: 16px;
+    height: 16px;
+    background-position: -437px -25px!important;
+}
+
+.light-arrow_refresh_small {
+    width: 16px;
+    height: 16px;
+    background-position: -459px -25px!important;
+}
+
+.light-arrow_rotate_anticlockwise {
+    width: 16px;
+    height: 16px;
+    background-position: -481px -25px!important;
+}
+
+.light-arrow_rotate_clockwise {
+    width: 16px;
+    height: 16px;
+    background-position: -503px -25px!important;
+}
+
+.light-arrow_switch {
+    width: 16px;
+    height: 16px;
+    background-position: -525px -25px!important;
+}
+
+.light-arrow_turn_left {
+    width: 16px;
+    height: 16px;
+    background-position: -547px -25px!important;
+}
+
+.light-arrow_turn_right {
+    width: 16px;
+    height: 16px;
+    background-position: -569px -25px!important;
+}
+
+.light-arrow_undo {
+    width: 16px;
+    height: 16px;
+    background-position: -591px -25px!important;
+}
+
+.light-arrow_up {
+    width: 16px;
+    height: 16px;
+    background-position: -613px -25px!important;
+}
+
+.light-asterisk_orange {
+    width: 16px;
+    height: 16px;
+    background-position: -635px -25px!important;
+}
+
+.light-asterisk_yellow {
+    width: 16px;
+    height: 16px;
+    background-position: -657px -25px!important;
+}
+
+.light-attach {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -47px!important;
+}
+
+.light-award_star_add {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -47px!important;
+}
+
+.light-award_star_bronze_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -47px!important;
+}
+
+.light-award_star_bronze_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -47px!important;
+}
+
+.light-award_star_bronze_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -47px!important;
+}
+
+.light-award_star_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -47px!important;
+}
+
+.light-award_star_gold_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -47px!important;
+}
+
+.light-award_star_gold_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -47px!important;
+}
+
+.light-award_star_gold_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -47px!important;
+}
+
+.light-award_star_silver_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -47px!important;
+}
+
+.light-award_star_silver_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -47px!important;
+}
+
+.light-award_star_silver_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -47px!important;
+}
+
+.light-basket {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -47px!important;
+}
+
+.light-basket_add {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -47px!important;
+}
+
+.light-basket_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -47px!important;
+}
+
+.light-basket_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -47px!important;
+}
+
+.light-basket_error {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -47px!important;
+}
+
+.light-basket_go {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -47px!important;
+}
+
+.light-basket_put {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -47px!important;
+}
+
+.light-basket_remove {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -47px!important;
+}
+
+.light-bell {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -47px!important;
+}
+
+.light-bell_add {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -47px!important;
+}
+
+.light-bell_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -47px!important;
+}
+
+.light-bell_error {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -47px!important;
+}
+
+.light-bell_go {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -47px!important;
+}
+
+.light-bell_link {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -47px!important;
+}
+
+.light-bin {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -47px!important;
+}
+
+.light-bin_closed {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -47px!important;
+}
+
+.light-bin_empty {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -47px!important;
+}
+
+.light-bomb {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -47px!important;
+}
+
+.light-book {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -47px!important;
+}
+
+.light-book_add {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -69px!important;
+}
+
+.light-book_addresses {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -69px!important;
+}
+
+.light-book_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -69px!important;
+}
+
+.light-book_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -69px!important;
+}
+
+.light-book_error {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -69px!important;
+}
+
+.light-book_go {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -69px!important;
+}
+
+.light-book_key {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -69px!important;
+}
+
+.light-book_link {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -69px!important;
+}
+
+.light-book_next {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -69px!important;
+}
+
+.light-book_open {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -69px!important;
+}
+
+.light-book_previous {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -69px!important;
+}
+
+.light-box {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -69px!important;
+}
+
+.light-brick {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -69px!important;
+}
+
+.light-brick_add {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -69px!important;
+}
+
+.light-brick_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -69px!important;
+}
+
+.light-brick_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -69px!important;
+}
+
+.light-brick_error {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -69px!important;
+}
+
+.light-brick_go {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -69px!important;
+}
+
+.light-brick_link {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -69px!important;
+}
+
+.light-bricks {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -69px!important;
+}
+
+.light-briefcase {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -69px!important;
+}
+
+.light-bug {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -69px!important;
+}
+
+.light-bug_add {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -69px!important;
+}
+
+.light-bug_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -69px!important;
+}
+
+.light-bug_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -69px!important;
+}
+
+.light-bug_error {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -69px!important;
+}
+
+.light-bug_go {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -69px!important;
+}
+
+.light-bug_link {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -69px!important;
+}
+
+.light-building {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -69px!important;
+}
+
+.light-building_add {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -69px!important;
+}
+
+.light-building_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -69px!important;
+}
+
+.light-building_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -91px!important;
+}
+
+.light-building_error {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -91px!important;
+}
+
+.light-building_go {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -91px!important;
+}
+
+.light-building_key {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -91px!important;
+}
+
+.light-building_link {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -91px!important;
+}
+
+.light-bullet_add {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -91px!important;
+}
+
+.light-bullet_arrow_bottom {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -91px!important;
+}
+
+.light-bullet_arrow_down {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -91px!important;
+}
+
+.light-bullet_arrow_top {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -91px!important;
+}
+
+.light-bullet_arrow_up {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -91px!important;
+}
+
+.light-bullet_black {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -91px!important;
+}
+
+.light-bullet_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -91px!important;
+}
+
+.light-bullet_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -91px!important;
+}
+
+.light-bullet_disk {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -91px!important;
+}
+
+.light-bullet_error {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -91px!important;
+}
+
+.light-bullet_feed {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -91px!important;
+}
+
+.light-bullet_go {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -91px!important;
+}
+
+.light-bullet_green {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -91px!important;
+}
+
+.light-bullet_key {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -91px!important;
+}
+
+.light-bullet_orange {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -91px!important;
+}
+
+.light-bullet_picture {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -91px!important;
+}
+
+.light-bullet_pink {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -91px!important;
+}
+
+.light-bullet_purple {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -91px!important;
+}
+
+.light-bullet_red {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -91px!important;
+}
+
+.light-bullet_star {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -91px!important;
+}
+
+.light-bullet_toggle_minus {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -91px!important;
+}
+
+.light-bullet_toggle_plus {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -91px!important;
+}
+
+.light-bullet_white {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -91px!important;
+}
+
+.light-bullet_wrench {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -91px!important;
+}
+
+.light-bullet_yellow {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -91px!important;
+}
+
+.light-cake {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -91px!important;
+}
+
+.light-calculator {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -113px!important;
+}
+
+.light-calculator_add {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -113px!important;
+}
+
+.light-calculator_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -113px!important;
+}
+
+.light-calculator_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -113px!important;
+}
+
+.light-calculator_error {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -113px!important;
+}
+
+.light-calculator_link {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -113px!important;
+}
+
+.light-calendar {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -113px!important;
+}
+
+.light-calendar_add {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -113px!important;
+}
+
+.light-calendar_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -113px!important;
+}
+
+.light-calendar_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -113px!important;
+}
+
+.light-calendar_link {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -113px!important;
+}
+
+.light-calendar_view_day {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -113px!important;
+}
+
+.light-calendar_view_month {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -113px!important;
+}
+
+.light-calendar_view_week {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -113px!important;
+}
+
+.light-camera {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -113px!important;
+}
+
+.light-camera_add {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -113px!important;
+}
+
+.light-camera_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -113px!important;
+}
+
+.light-camera_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -113px!important;
+}
+
+.light-camera_error {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -113px!important;
+}
+
+.light-camera_go {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -113px!important;
+}
+
+.light-camera_link {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -113px!important;
+}
+
+.light-camera_small {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -113px!important;
+}
+
+.light-cancel {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -113px!important;
+}
+
+.light-car {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -113px!important;
+}
+
+.light-car_add {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -113px!important;
+}
+
+.light-car_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -113px!important;
+}
+
+.light-cart {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -113px!important;
+}
+
+.light-cart_add {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -113px!important;
+}
+
+.light-cart_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -113px!important;
+}
+
+.light-cart_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -113px!important;
+}
+
+.light-cart_error {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -113px!important;
+}
+
+.light-cart_go {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -135px!important;
+}
+
+.light-cart_put {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -135px!important;
+}
+
+.light-cart_remove {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -135px!important;
+}
+
+.light-cd {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -135px!important;
+}
+
+.light-cd_add {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -135px!important;
+}
+
+.light-cd_burn {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -135px!important;
+}
+
+.light-cd_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -135px!important;
+}
+
+.light-cd_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -135px!important;
+}
+
+.light-cd_eject {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -135px!important;
+}
+
+.light-cd_go {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -135px!important;
+}
+
+.light-chart_bar {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -135px!important;
+}
+
+.light-chart_bar_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -135px!important;
+}
+
+.light-chart_bar_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -135px!important;
+}
+
+.light-chart_bar_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -135px!important;
+}
+
+.light-chart_bar_error {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -135px!important;
+}
+
+.light-chart_bar_link {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -135px!important;
+}
+
+.light-chart_curve {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -135px!important;
+}
+
+.light-chart_curve_add {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -135px!important;
+}
+
+.light-chart_curve_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -135px!important;
+}
+
+.light-chart_curve_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -135px!important;
+}
+
+.light-chart_curve_error {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -135px!important;
+}
+
+.light-chart_curve_go {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -135px!important;
+}
+
+.light-chart_curve_link {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -135px!important;
+}
+
+.light-chart_line {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -135px!important;
+}
+
+.light-chart_line_add {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -135px!important;
+}
+
+.light-chart_line_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -135px!important;
+}
+
+.light-chart_line_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -135px!important;
+}
+
+.light-chart_line_error {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -135px!important;
+}
+
+.light-chart_line_link {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -135px!important;
+}
+
+.light-chart_organisation {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -135px!important;
+}
+
+.light-chart_organisation_add {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -135px!important;
+}
+
+.light-chart_organisation_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -157px!important;
+}
+
+.light-chart_pie {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -157px!important;
+}
+
+.light-chart_pie_add {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -157px!important;
+}
+
+.light-chart_pie_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -157px!important;
+}
+
+.light-chart_pie_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -157px!important;
+}
+
+.light-chart_pie_error {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -157px!important;
+}
+
+.light-chart_pie_link {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -157px!important;
+}
+
+.light-clock {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -157px!important;
+}
+
+.light-clock_add {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -157px!important;
+}
+
+.light-clock_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -157px!important;
+}
+
+.light-clock_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -157px!important;
+}
+
+.light-clock_error {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -157px!important;
+}
+
+.light-clock_go {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -157px!important;
+}
+
+.light-clock_link {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -157px!important;
+}
+
+.light-clock_pause {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -157px!important;
+}
+
+.light-clock_play {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -157px!important;
+}
+
+.light-clock_red {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -157px!important;
+}
+
+.light-clock_stop {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -157px!important;
+}
+
+.light-cog {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -157px!important;
+}
+
+.light-cog_add {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -157px!important;
+}
+
+.light-cog_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -157px!important;
+}
+
+.light-cog_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -157px!important;
+}
+
+.light-cog_error {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -157px!important;
+}
+
+.light-cog_go {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -157px!important;
+}
+
+.light-coins {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -157px!important;
+}
+
+.light-coins_add {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -157px!important;
+}
+
+.light-coins_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -157px!important;
+}
+
+.light-color_swatch {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -157px!important;
+}
+
+.light-color_wheel {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -157px!important;
+}
+
+.light-comment {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -157px!important;
+}
+
+.light-comment_add {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -157px!important;
+}
+
+.light-comment_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -179px!important;
+}
+
+.light-comment_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -179px!important;
+}
+
+.light-comments {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -179px!important;
+}
+
+.light-comments_add {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -179px!important;
+}
+
+.light-comments_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -179px!important;
+}
+
+.light-compress {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -179px!important;
+}
+
+.light-computer {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -179px!important;
+}
+
+.light-computer_add {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -179px!important;
+}
+
+.light-computer_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -179px!important;
+}
+
+.light-computer_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -179px!important;
+}
+
+.light-computer_error {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -179px!important;
+}
+
+.light-computer_go {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -179px!important;
+}
+
+.light-computer_key {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -179px!important;
+}
+
+.light-computer_link {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -179px!important;
+}
+
+.light-connect {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -179px!important;
+}
+
+.light-contrast {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -179px!important;
+}
+
+.light-contrast_decrease {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -179px!important;
+}
+
+.light-contrast_high {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -179px!important;
+}
+
+.light-contrast_increase {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -179px!important;
+}
+
+.light-contrast_low {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -179px!important;
+}
+
+.light-control_eject {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -179px!important;
+}
+
+.light-control_eject_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -179px!important;
+}
+
+.light-control_end {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -179px!important;
+}
+
+.light-control_end_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -179px!important;
+}
+
+.light-control_equalizer {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -179px!important;
+}
+
+.light-control_equalizer_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -179px!important;
+}
+
+.light-control_fastforward {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -179px!important;
+}
+
+.light-control_fastforward_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -179px!important;
+}
+
+.light-control_pause {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -179px!important;
+}
+
+.light-control_pause_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -179px!important;
+}
+
+.light-control_play {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -179px!important;
+}
+
+.light-control_play_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -201px!important;
+}
+
+.light-control_repeat {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -201px!important;
+}
+
+.light-control_repeat_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -201px!important;
+}
+
+.light-control_rewind {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -201px!important;
+}
+
+.light-control_rewind_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -201px!important;
+}
+
+.light-control_start {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -201px!important;
+}
+
+.light-control_start_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -201px!important;
+}
+
+.light-control_stop {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -201px!important;
+}
+
+.light-control_stop_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -201px!important;
+}
+
+.light-controller {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -201px!important;
+}
+
+.light-controller_add {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -201px!important;
+}
+
+.light-controller_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -201px!important;
+}
+
+.light-controller_error {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -201px!important;
+}
+
+.light-creditcards {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -201px!important;
+}
+
+.light-cross {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -201px!important;
+}
+
+.light-css {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -201px!important;
+}
+
+.light-css_add {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -201px!important;
+}
+
+.light-css_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -201px!important;
+}
+
+.light-css_go {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -201px!important;
+}
+
+.light-css_valid {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -201px!important;
+}
+
+.light-cup {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -201px!important;
+}
+
+.light-cup_add {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -201px!important;
+}
+
+.light-cup_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -201px!important;
+}
+
+.light-cup_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -201px!important;
+}
+
+.light-cup_error {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -201px!important;
+}
+
+.light-cup_go {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -201px!important;
+}
+
+.light-cup_key {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -201px!important;
+}
+
+.light-cup_link {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -201px!important;
+}
+
+.light-cursor {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -201px!important;
+}
+
+.light-cut {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -201px!important;
+}
+
+.light-cut_red {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -201px!important;
+}
+
+.light-database {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -223px!important;
+}
+
+.light-database_add {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -223px!important;
+}
+
+.light-database_connect {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -223px!important;
+}
+
+.light-database_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -223px!important;
+}
+
+.light-database_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -223px!important;
+}
+
+.light-database_error {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -223px!important;
+}
+
+.light-database_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -223px!important;
+}
+
+.light-database_go {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -223px!important;
+}
+
+.light-database_key {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -223px!important;
+}
+
+.light-database_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -223px!important;
+}
+
+.light-database_link {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -223px!important;
+}
+
+.light-database_refresh {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -223px!important;
+}
+
+.light-database_save {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -223px!important;
+}
+
+.light-database_table {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -223px!important;
+}
+
+.light-date {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -223px!important;
+}
+
+.light-date_add {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -223px!important;
+}
+
+.light-date_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -223px!important;
+}
+
+.light-date_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -223px!important;
+}
+
+.light-date_error {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -223px!important;
+}
+
+.light-date_go {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -223px!important;
+}
+
+.light-date_link {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -223px!important;
+}
+
+.light-date_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -223px!important;
+}
+
+.light-date_next {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -223px!important;
+}
+
+.light-date_previous {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -223px!important;
+}
+
+.light-delete {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -223px!important;
+}
+
+.light-disconnect {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -223px!important;
+}
+
+.light-disk {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -223px!important;
+}
+
+.light-disk_multiple {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -223px!important;
+}
+
+.light-door {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -223px!important;
+}
+
+.light-door_in {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -223px!important;
+}
+
+.light-door_open {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -223px!important;
+}
+
+.light-door_out {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -245px!important;
+}
+
+.light-drink {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -245px!important;
+}
+
+.light-drink_empty {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -245px!important;
+}
+
+.light-drive {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -245px!important;
+}
+
+.light-drive_add {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -245px!important;
+}
+
+.light-drive_burn {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -245px!important;
+}
+
+.light-drive_cd {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -245px!important;
+}
+
+.light-drive_cd_empty {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -245px!important;
+}
+
+.light-drive_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -245px!important;
+}
+
+.light-drive_disk {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -245px!important;
+}
+
+.light-drive_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -245px!important;
+}
+
+.light-drive_error {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -245px!important;
+}
+
+.light-drive_go {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -245px!important;
+}
+
+.light-drive_key {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -245px!important;
+}
+
+.light-drive_link {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -245px!important;
+}
+
+.light-drive_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -245px!important;
+}
+
+.light-drive_network {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -245px!important;
+}
+
+.light-drive_rename {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -245px!important;
+}
+
+.light-drive_user {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -245px!important;
+}
+
+.light-drive_web {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -245px!important;
+}
+
+.light-dvd {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -245px!important;
+}
+
+.light-dvd_add {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -245px!important;
+}
+
+.light-dvd_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -245px!important;
+}
+
+.light-dvd_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -245px!important;
+}
+
+.light-dvd_error {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -245px!important;
+}
+
+.light-dvd_go {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -245px!important;
+}
+
+.light-dvd_key {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -245px!important;
+}
+
+.light-dvd_link {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -245px!important;
+}
+
+.light-email {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -245px!important;
+}
+
+.light-email_add {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -245px!important;
+}
+
+.light-email_attach {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -245px!important;
+}
+
+.light-email_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -267px!important;
+}
+
+.light-email_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -267px!important;
+}
+
+.light-email_error {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -267px!important;
+}
+
+.light-email_go {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -267px!important;
+}
+
+.light-email_link {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -267px!important;
+}
+
+.light-email_open {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -267px!important;
+}
+
+.light-email_open_image {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -267px!important;
+}
+
+.light-emoticon_evilgrin {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -267px!important;
+}
+
+.light-emoticon_grin {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -267px!important;
+}
+
+.light-emoticon_happy {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -267px!important;
+}
+
+.light-emoticon_smile {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -267px!important;
+}
+
+.light-emoticon_surprised {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -267px!important;
+}
+
+.light-emoticon_tongue {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -267px!important;
+}
+
+.light-emoticon_unhappy {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -267px!important;
+}
+
+.light-emoticon_waii {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -267px!important;
+}
+
+.light-emoticon_wink {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -267px!important;
+}
+
+.light-error {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -267px!important;
+}
+
+.light-error_add {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -267px!important;
+}
+
+.light-error_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -267px!important;
+}
+
+.light-error_go {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -267px!important;
+}
+
+.light-exclamation {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -267px!important;
+}
+
+.light-eye {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -267px!important;
+}
+
+.light-feed {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -267px!important;
+}
+
+.light-feed_add {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -267px!important;
+}
+
+.light-feed_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -267px!important;
+}
+
+.light-feed_disk {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -267px!important;
+}
+
+.light-feed_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -267px!important;
+}
+
+.light-feed_error {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -267px!important;
+}
+
+.light-feed_go {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -267px!important;
+}
+
+.light-feed_key {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -267px!important;
+}
+
+.light-feed_link {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -267px!important;
+}
+
+.light-feed_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -289px!important;
+}
+
+.light-female {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -289px!important;
+}
+
+.light-film {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -289px!important;
+}
+
+.light-film_add {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -289px!important;
+}
+
+.light-film_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -289px!important;
+}
+
+.light-film_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -289px!important;
+}
+
+.light-film_error {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -289px!important;
+}
+
+.light-film_go {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -289px!important;
+}
+
+.light-film_key {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -289px!important;
+}
+
+.light-film_link {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -289px!important;
+}
+
+.light-film_save {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -289px!important;
+}
+
+.light-find {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -289px!important;
+}
+
+.light-flag_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -289px!important;
+}
+
+.light-flag_green {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -289px!important;
+}
+
+.light-flag_orange {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -289px!important;
+}
+
+.light-flag_pink {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -289px!important;
+}
+
+.light-flag_purple {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -289px!important;
+}
+
+.light-flag_red {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -289px!important;
+}
+
+.light-flag_yellow {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -289px!important;
+}
+
+.light-folder {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -289px!important;
+}
+
+.light-folder_add {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -289px!important;
+}
+
+.light-folder_bell {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -289px!important;
+}
+
+.light-folder_brick {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -289px!important;
+}
+
+.light-folder_bug {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -289px!important;
+}
+
+.light-folder_camera {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -289px!important;
+}
+
+.light-folder_database {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -289px!important;
+}
+
+.light-folder_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -289px!important;
+}
+
+.light-folder_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -289px!important;
+}
+
+.light-folder_error {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -289px!important;
+}
+
+.light-folder_explore {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -289px!important;
+}
+
+.light-folder_feed {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -289px!important;
+}
+
+.light-folder_find {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -311px!important;
+}
+
+.light-folder_go {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -311px!important;
+}
+
+.light-folder_heart {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -311px!important;
+}
+
+.light-folder_image {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -311px!important;
+}
+
+.light-folder_key {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -311px!important;
+}
+
+.light-folder_lightbulb {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -311px!important;
+}
+
+.light-folder_link {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -311px!important;
+}
+
+.light-folder_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -311px!important;
+}
+
+.light-folder_page {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -311px!important;
+}
+
+.light-folder_page_white {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -311px!important;
+}
+
+.light-folder_palette {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -311px!important;
+}
+
+.light-folder_picture {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -311px!important;
+}
+
+.light-folder_star {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -311px!important;
+}
+
+.light-folder_table {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -311px!important;
+}
+
+.light-folder_user {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -311px!important;
+}
+
+.light-folder_wrench {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -311px!important;
+}
+
+.light-font {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -311px!important;
+}
+
+.light-font_add {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -311px!important;
+}
+
+.light-font_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -311px!important;
+}
+
+.light-font_go {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -311px!important;
+}
+
+.light-group {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -311px!important;
+}
+
+.light-group_add {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -311px!important;
+}
+
+.light-group_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -311px!important;
+}
+
+.light-group_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -311px!important;
+}
+
+.light-group_error {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -311px!important;
+}
+
+.light-group_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -311px!important;
+}
+
+.light-group_go {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -311px!important;
+}
+
+.light-group_key {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -311px!important;
+}
+
+.light-group_link {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -311px!important;
+}
+
+.light-heart {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -311px!important;
+}
+
+.light-heart_add {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -311px!important;
+}
+
+.light-heart_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -333px!important;
+}
+
+.light-help {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -333px!important;
+}
+
+.light-hourglass {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -333px!important;
+}
+
+.light-hourglass_add {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -333px!important;
+}
+
+.light-hourglass_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -333px!important;
+}
+
+.light-hourglass_go {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -333px!important;
+}
+
+.light-hourglass_link {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -333px!important;
+}
+
+.light-house {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -333px!important;
+}
+
+.light-house_go {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -333px!important;
+}
+
+.light-house_link {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -333px!important;
+}
+
+.light-html {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -333px!important;
+}
+
+.light-html_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -333px!important;
+}
+
+.light-html_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -333px!important;
+}
+
+.light-html_go {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -333px!important;
+}
+
+.light-html_valid {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -333px!important;
+}
+
+.light-image {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -333px!important;
+}
+
+.light-image_add {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -333px!important;
+}
+
+.light-image_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -333px!important;
+}
+
+.light-image_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -333px!important;
+}
+
+.light-image_link {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -333px!important;
+}
+
+.light-images {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -333px!important;
+}
+
+.light-images_send {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -333px!important;
+}
+
+.light-information {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -333px!important;
+}
+
+.light-ipod {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -333px!important;
+}
+
+.light-ipod_cast {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -333px!important;
+}
+
+.light-ipod_cast_add {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -333px!important;
+}
+
+.light-ipod_cast_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -333px!important;
+}
+
+.light-ipod_sound {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -333px!important;
+}
+
+.light-joystick {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -333px!important;
+}
+
+.light-joystick_add {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -333px!important;
+}
+
+.light-joystick_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -333px!important;
+}
+
+.light-joystick_error {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -355px!important;
+}
+
+.light-key {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -355px!important;
+}
+
+.light-key_add {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -355px!important;
+}
+
+.light-key_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -355px!important;
+}
+
+.light-key_go {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -355px!important;
+}
+
+.light-keyboard {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -355px!important;
+}
+
+.light-keyboard_add {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -355px!important;
+}
+
+.light-keyboard_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -355px!important;
+}
+
+.light-keyboard_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -355px!important;
+}
+
+.light-layers {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -355px!important;
+}
+
+.light-layout {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -355px!important;
+}
+
+.light-layout_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -355px!important;
+}
+
+.light-layout_content {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -355px!important;
+}
+
+.light-layout_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -355px!important;
+}
+
+.light-layout_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -355px!important;
+}
+
+.light-layout_error {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -355px!important;
+}
+
+.light-layout_header {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -355px!important;
+}
+
+.light-layout_link {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -355px!important;
+}
+
+.light-layout_sidebar {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -355px!important;
+}
+
+.light-lightbulb {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -355px!important;
+}
+
+.light-lightbulb_add {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -355px!important;
+}
+
+.light-lightbulb_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -355px!important;
+}
+
+.light-lightbulb_off {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -355px!important;
+}
+
+.light-lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -355px!important;
+}
+
+.light-lightning_add {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -355px!important;
+}
+
+.light-lightning_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -355px!important;
+}
+
+.light-lightning_go {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -355px!important;
+}
+
+.light-link {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -355px!important;
+}
+
+.light-link_add {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -355px!important;
+}
+
+.light-link_break {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -355px!important;
+}
+
+.light-link_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -355px!important;
+}
+
+.light-link_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -377px!important;
+}
+
+.light-link_error {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -377px!important;
+}
+
+.light-link_go {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -377px!important;
+}
+
+.light-lock {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -377px!important;
+}
+
+.light-lock_add {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -377px!important;
+}
+
+.light-lock_break {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -377px!important;
+}
+
+.light-lock_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -377px!important;
+}
+
+.light-lock_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -377px!important;
+}
+
+.light-lock_go {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -377px!important;
+}
+
+.light-lock_open {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -377px!important;
+}
+
+.light-lorry {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -377px!important;
+}
+
+.light-lorry_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -377px!important;
+}
+
+.light-lorry_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -377px!important;
+}
+
+.light-lorry_error {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -377px!important;
+}
+
+.light-lorry_flatbed {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -377px!important;
+}
+
+.light-lorry_go {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -377px!important;
+}
+
+.light-lorry_link {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -377px!important;
+}
+
+.light-magifier_zoom_out {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -377px!important;
+}
+
+.light-magnifier {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -377px!important;
+}
+
+.light-magnifier_zoom_in {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -377px!important;
+}
+
+.light-male {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -377px!important;
+}
+
+.light-map {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -377px!important;
+}
+
+.light-map_add {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -377px!important;
+}
+
+.light-map_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -377px!important;
+}
+
+.light-map_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -377px!important;
+}
+
+.light-map_go {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -377px!important;
+}
+
+.light-map_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -377px!important;
+}
+
+.light-medal_bronze_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -377px!important;
+}
+
+.light-medal_bronze_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -377px!important;
+}
+
+.light-medal_bronze_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -377px!important;
+}
+
+.light-medal_bronze_add {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -377px!important;
+}
+
+.light-medal_bronze_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -399px!important;
+}
+
+.light-medal_gold_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -399px!important;
+}
+
+.light-medal_gold_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -399px!important;
+}
+
+.light-medal_gold_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -399px!important;
+}
+
+.light-medal_gold_add {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -399px!important;
+}
+
+.light-medal_gold_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -399px!important;
+}
+
+.light-medal_silver_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -399px!important;
+}
+
+.light-medal_silver_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -399px!important;
+}
+
+.light-medal_silver_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -399px!important;
+}
+
+.light-medal_silver_add {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -399px!important;
+}
+
+.light-medal_silver_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -399px!important;
+}
+
+.light-money {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -399px!important;
+}
+
+.light-money_add {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -399px!important;
+}
+
+.light-money_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -399px!important;
+}
+
+.light-money_dollar {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -399px!important;
+}
+
+.light-money_euro {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -399px!important;
+}
+
+.light-money_pound {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -399px!important;
+}
+
+.light-money_yen {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -399px!important;
+}
+
+.light-monitor {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -399px!important;
+}
+
+.light-monitor_add {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -399px!important;
+}
+
+.light-monitor_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -399px!important;
+}
+
+.light-monitor_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -399px!important;
+}
+
+.light-monitor_error {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -399px!important;
+}
+
+.light-monitor_go {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -399px!important;
+}
+
+.light-monitor_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -399px!important;
+}
+
+.light-monitor_link {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -399px!important;
+}
+
+.light-mouse {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -399px!important;
+}
+
+.light-mouse_add {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -399px!important;
+}
+
+.light-mouse_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -399px!important;
+}
+
+.light-mouse_error {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -399px!important;
+}
+
+.light-music {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -399px!important;
+}
+
+.light-new {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -421px!important;
+}
+
+.light-newspaper {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -421px!important;
+}
+
+.light-newspaper_add {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -421px!important;
+}
+
+.light-newspaper_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -421px!important;
+}
+
+.light-newspaper_go {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -421px!important;
+}
+
+.light-newspaper_link {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -421px!important;
+}
+
+.light-note {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -421px!important;
+}
+
+.light-note_add {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -421px!important;
+}
+
+.light-note_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -421px!important;
+}
+
+.light-note_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -421px!important;
+}
+
+.light-note_error {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -421px!important;
+}
+
+.light-note_go {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -421px!important;
+}
+
+.light-overlays {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -421px!important;
+}
+
+.light-package {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -421px!important;
+}
+
+.light-package_add {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -421px!important;
+}
+
+.light-package_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -421px!important;
+}
+
+.light-package_go {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -421px!important;
+}
+
+.light-package_green {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -421px!important;
+}
+
+.light-package_link {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -421px!important;
+}
+
+.light-page {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -421px!important;
+}
+
+.light-page_add {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -421px!important;
+}
+
+.light-page_attach {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -421px!important;
+}
+
+.light-page_code {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -421px!important;
+}
+
+.light-page_copy {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -421px!important;
+}
+
+.light-page_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -421px!important;
+}
+
+.light-page_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -421px!important;
+}
+
+.light-page_error {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -421px!important;
+}
+
+.light-page_excel {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -421px!important;
+}
+
+.light-page_find {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -421px!important;
+}
+
+.light-page_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -421px!important;
+}
+
+.light-page_go {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -421px!important;
+}
+
+.light-page_green {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -443px!important;
+}
+
+.light-page_key {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -443px!important;
+}
+
+.light-page_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -443px!important;
+}
+
+.light-page_link {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -443px!important;
+}
+
+.light-page_paintbrush {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -443px!important;
+}
+
+.light-page_paste {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -443px!important;
+}
+
+.light-page_red {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -443px!important;
+}
+
+.light-page_refresh {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -443px!important;
+}
+
+.light-page_save {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -443px!important;
+}
+
+.light-page_white {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -443px!important;
+}
+
+.light-page_white_acrobat {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -443px!important;
+}
+
+.light-page_white_actionscript {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -443px!important;
+}
+
+.light-page_white_add {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -443px!important;
+}
+
+.light-page_white_c {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -443px!important;
+}
+
+.light-page_white_camera {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -443px!important;
+}
+
+.light-page_white_cd {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -443px!important;
+}
+
+.light-page_white_code {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -443px!important;
+}
+
+.light-page_white_code_red {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -443px!important;
+}
+
+.light-page_white_coldfusion {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -443px!important;
+}
+
+.light-page_white_compressed {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -443px!important;
+}
+
+.light-page_white_copy {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -443px!important;
+}
+
+.light-page_white_cplusplus {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -443px!important;
+}
+
+.light-page_white_csharp {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -443px!important;
+}
+
+.light-page_white_cup {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -443px!important;
+}
+
+.light-page_white_database {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -443px!important;
+}
+
+.light-page_white_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -443px!important;
+}
+
+.light-page_white_dvd {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -443px!important;
+}
+
+.light-page_white_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -443px!important;
+}
+
+.light-page_white_error {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -443px!important;
+}
+
+.light-page_white_excel {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -443px!important;
+}
+
+.light-page_white_find {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -443px!important;
+}
+
+.light-page_white_flash {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -465px!important;
+}
+
+.light-page_white_freehand {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -465px!important;
+}
+
+.light-page_white_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -465px!important;
+}
+
+.light-page_white_get {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -465px!important;
+}
+
+.light-page_white_go {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -465px!important;
+}
+
+.light-page_white_h {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -465px!important;
+}
+
+.light-page_white_horizontal {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -465px!important;
+}
+
+.light-page_white_key {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -465px!important;
+}
+
+.light-page_white_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -465px!important;
+}
+
+.light-page_white_link {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -465px!important;
+}
+
+.light-page_white_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -465px!important;
+}
+
+.light-page_white_medal {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -465px!important;
+}
+
+.light-page_white_office {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -465px!important;
+}
+
+.light-page_white_paint {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -465px!important;
+}
+
+.light-page_white_paintbrush {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -465px!important;
+}
+
+.light-page_white_paste {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -465px!important;
+}
+
+.light-page_white_php {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -465px!important;
+}
+
+.light-page_white_picture {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -465px!important;
+}
+
+.light-page_white_powerpoint {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -465px!important;
+}
+
+.light-page_white_put {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -465px!important;
+}
+
+.light-page_white_ruby {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -465px!important;
+}
+
+.light-page_white_stack {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -465px!important;
+}
+
+.light-page_white_star {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -465px!important;
+}
+
+.light-page_white_swoosh {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -465px!important;
+}
+
+.light-page_white_text {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -465px!important;
+}
+
+.light-page_white_text_width {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -465px!important;
+}
+
+.light-page_white_tux {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -465px!important;
+}
+
+.light-page_white_vector {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -465px!important;
+}
+
+.light-page_white_visualstudio {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -465px!important;
+}
+
+.light-page_white_width {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -465px!important;
+}
+
+.light-page_white_word {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -465px!important;
+}
+
+.light-page_white_world {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -487px!important;
+}
+
+.light-page_white_wrench {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -487px!important;
+}
+
+.light-page_white_zip {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -487px!important;
+}
+
+.light-page_word {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -487px!important;
+}
+
+.light-page_world {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -487px!important;
+}
+
+.light-paintbrush {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -487px!important;
+}
+
+.light-paintcan {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -487px!important;
+}
+
+.light-palette {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -487px!important;
+}
+
+.light-paste_plain {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -487px!important;
+}
+
+.light-paste_word {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -487px!important;
+}
+
+.light-pencil {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -487px!important;
+}
+
+.light-pencil_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -487px!important;
+}
+
+.light-pencil_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -487px!important;
+}
+
+.light-pencil_go {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -487px!important;
+}
+
+.light-phone {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -487px!important;
+}
+
+.light-phone_add {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -487px!important;
+}
+
+.light-phone_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -487px!important;
+}
+
+.light-phone_sound {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -487px!important;
+}
+
+.light-photo {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -487px!important;
+}
+
+.light-photo_add {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -487px!important;
+}
+
+.light-photo_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -487px!important;
+}
+
+.light-photo_link {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -487px!important;
+}
+
+.light-photos {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -487px!important;
+}
+
+.light-picture {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -487px!important;
+}
+
+.light-picture_add {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -487px!important;
+}
+
+.light-picture_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -487px!important;
+}
+
+.light-picture_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -487px!important;
+}
+
+.light-picture_empty {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -487px!important;
+}
+
+.light-picture_error {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -487px!important;
+}
+
+.light-picture_go {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -487px!important;
+}
+
+.light-picture_key {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -487px!important;
+}
+
+.light-picture_link {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -509px!important;
+}
+
+.light-picture_save {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -509px!important;
+}
+
+.light-pictures {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -509px!important;
+}
+
+.light-pilcrow {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -509px!important;
+}
+
+.light-pill {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -509px!important;
+}
+
+.light-pill_add {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -509px!important;
+}
+
+.light-pill_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -509px!important;
+}
+
+.light-pill_go {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -509px!important;
+}
+
+.light-plugin {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -509px!important;
+}
+
+.light-plugin_add {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -509px!important;
+}
+
+.light-plugin_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -509px!important;
+}
+
+.light-plugin_disabled {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -509px!important;
+}
+
+.light-plugin_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -509px!important;
+}
+
+.light-plugin_error {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -509px!important;
+}
+
+.light-plugin_go {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -509px!important;
+}
+
+.light-plugin_link {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -509px!important;
+}
+
+.light-printer {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -509px!important;
+}
+
+.light-printer_add {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -509px!important;
+}
+
+.light-printer_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -509px!important;
+}
+
+.light-printer_empty {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -509px!important;
+}
+
+.light-printer_error {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -509px!important;
+}
+
+.light-rainbow {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -509px!important;
+}
+
+.light-report {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -509px!important;
+}
+
+.light-report_add {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -509px!important;
+}
+
+.light-report_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -509px!important;
+}
+
+.light-report_disk {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -509px!important;
+}
+
+.light-report_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -509px!important;
+}
+
+.light-report_go {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -509px!important;
+}
+
+.light-report_key {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -509px!important;
+}
+
+.light-report_link {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -509px!important;
+}
+
+.light-report_magnify {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -509px!important;
+}
+
+.light-report_picture {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -531px!important;
+}
+
+.light-report_user {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -531px!important;
+}
+
+.light-report_word {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -531px!important;
+}
+
+.light-resultset_first {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -531px!important;
+}
+
+.light-resultset_last {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -531px!important;
+}
+
+.light-resultset_next {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -531px!important;
+}
+
+.light-resultset_previous {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -531px!important;
+}
+
+.light-rosette {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -531px!important;
+}
+
+.light-rss {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -531px!important;
+}
+
+.light-rss_add {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -531px!important;
+}
+
+.light-rss_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -531px!important;
+}
+
+.light-rss_go {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -531px!important;
+}
+
+.light-rss_valid {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -531px!important;
+}
+
+.light-ruby {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -531px!important;
+}
+
+.light-ruby_add {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -531px!important;
+}
+
+.light-ruby_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -531px!important;
+}
+
+.light-ruby_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -531px!important;
+}
+
+.light-ruby_get {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -531px!important;
+}
+
+.light-ruby_go {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -531px!important;
+}
+
+.light-ruby_key {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -531px!important;
+}
+
+.light-ruby_link {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -531px!important;
+}
+
+.light-ruby_put {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -531px!important;
+}
+
+.light-script {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -531px!important;
+}
+
+.light-script_add {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -531px!important;
+}
+
+.light-script_code {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -531px!important;
+}
+
+.light-script_code_red {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -531px!important;
+}
+
+.light-script_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -531px!important;
+}
+
+.light-script_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -531px!important;
+}
+
+.light-script_error {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -531px!important;
+}
+
+.light-script_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -531px!important;
+}
+
+.light-script_go {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -531px!important;
+}
+
+.light-script_key {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -553px!important;
+}
+
+.light-script_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -553px!important;
+}
+
+.light-script_link {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -553px!important;
+}
+
+.light-script_palette {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -553px!important;
+}
+
+.light-script_save {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -553px!important;
+}
+
+.light-server {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -553px!important;
+}
+
+.light-server_add {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -553px!important;
+}
+
+.light-server_chart {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -553px!important;
+}
+
+.light-server_compressed {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -553px!important;
+}
+
+.light-server_connect {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -553px!important;
+}
+
+.light-server_database {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -553px!important;
+}
+
+.light-server_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -553px!important;
+}
+
+.light-server_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -553px!important;
+}
+
+.light-server_error {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -553px!important;
+}
+
+.light-server_go {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -553px!important;
+}
+
+.light-server_key {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -553px!important;
+}
+
+.light-server_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -553px!important;
+}
+
+.light-server_link {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -553px!important;
+}
+
+.light-server_uncompressed {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -553px!important;
+}
+
+.light-shading {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -553px!important;
+}
+
+.light-shape_align_bottom {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -553px!important;
+}
+
+.light-shape_align_center {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -553px!important;
+}
+
+.light-shape_align_left {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -553px!important;
+}
+
+.light-shape_align_middle {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -553px!important;
+}
+
+.light-shape_align_right {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -553px!important;
+}
+
+.light-shape_align_top {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -553px!important;
+}
+
+.light-shape_flip_horizontal {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -553px!important;
+}
+
+.light-shape_flip_vertical {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -553px!important;
+}
+
+.light-shape_group {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -553px!important;
+}
+
+.light-shape_handles {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -553px!important;
+}
+
+.light-shape_move_back {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -553px!important;
+}
+
+.light-shape_move_backwards {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -575px!important;
+}
+
+.light-shape_move_forwards {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -575px!important;
+}
+
+.light-shape_move_front {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -575px!important;
+}
+
+.light-shape_rotate_anticlockwise {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -575px!important;
+}
+
+.light-shape_rotate_clockwise {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -575px!important;
+}
+
+.light-shape_square {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -575px!important;
+}
+
+.light-shape_square_add {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -575px!important;
+}
+
+.light-shape_square_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -575px!important;
+}
+
+.light-shape_square_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -575px!important;
+}
+
+.light-shape_square_error {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -575px!important;
+}
+
+.light-shape_square_go {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -575px!important;
+}
+
+.light-shape_square_key {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -575px!important;
+}
+
+.light-shape_square_link {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -575px!important;
+}
+
+.light-shape_ungroup {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -575px!important;
+}
+
+.light-shield {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -575px!important;
+}
+
+.light-shield_add {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -575px!important;
+}
+
+.light-shield_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -575px!important;
+}
+
+.light-shield_go {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -575px!important;
+}
+
+.light-sitemap {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -575px!important;
+}
+
+.light-sitemap_color {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -575px!important;
+}
+
+.light-sound {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -575px!important;
+}
+
+.light-sound_add {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -575px!important;
+}
+
+.light-sound_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -575px!important;
+}
+
+.light-sound_low {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -575px!important;
+}
+
+.light-sound_mute {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -575px!important;
+}
+
+.light-sound_none {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -575px!important;
+}
+
+.light-spellcheck {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -575px!important;
+}
+
+.light-sport_8ball {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -575px!important;
+}
+
+.light-sport_basketball {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -575px!important;
+}
+
+.light-sport_football {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -575px!important;
+}
+
+.light-sport_golf {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -575px!important;
+}
+
+.light-sport_raquet {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -597px!important;
+}
+
+.light-sport_shuttlecock {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -597px!important;
+}
+
+.light-sport_soccer {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -597px!important;
+}
+
+.light-sport_tennis {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -597px!important;
+}
+
+.light-star {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -597px!important;
+}
+
+.light-status_away {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -597px!important;
+}
+
+.light-status_busy {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -597px!important;
+}
+
+.light-status_offline {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -597px!important;
+}
+
+.light-status_online {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -597px!important;
+}
+
+.light-stop {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -597px!important;
+}
+
+.light-style {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -597px!important;
+}
+
+.light-style_add {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -597px!important;
+}
+
+.light-style_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -597px!important;
+}
+
+.light-style_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -597px!important;
+}
+
+.light-style_go {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -597px!important;
+}
+
+.light-sum {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -597px!important;
+}
+
+.light-tab {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -597px!important;
+}
+
+.light-tab_add {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -597px!important;
+}
+
+.light-tab_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -597px!important;
+}
+
+.light-tab_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -597px!important;
+}
+
+.light-tab_go {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -597px!important;
+}
+
+.light-table {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -597px!important;
+}
+
+.light-table_add {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -597px!important;
+}
+
+.light-table_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -597px!important;
+}
+
+.light-table_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -597px!important;
+}
+
+.light-table_error {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -597px!important;
+}
+
+.light-table_gear {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -597px!important;
+}
+
+.light-table_go {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -597px!important;
+}
+
+.light-table_key {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -597px!important;
+}
+
+.light-table_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -597px!important;
+}
+
+.light-table_link {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -597px!important;
+}
+
+.light-table_multiple {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -619px!important;
+}
+
+.light-table_refresh {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -619px!important;
+}
+
+.light-table_relationship {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -619px!important;
+}
+
+.light-table_row_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -619px!important;
+}
+
+.light-table_row_insert {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -619px!important;
+}
+
+.light-table_save {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -619px!important;
+}
+
+.light-table_sort {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -619px!important;
+}
+
+.light-tag {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -619px!important;
+}
+
+.light-tag_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -619px!important;
+}
+
+.light-tag_blue_add {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -619px!important;
+}
+
+.light-tag_blue_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -619px!important;
+}
+
+.light-tag_blue_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -619px!important;
+}
+
+.light-tag_green {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -619px!important;
+}
+
+.light-tag_orange {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -619px!important;
+}
+
+.light-tag_pink {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -619px!important;
+}
+
+.light-tag_purple {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -619px!important;
+}
+
+.light-tag_red {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -619px!important;
+}
+
+.light-tag_yellow {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -619px!important;
+}
+
+.light-telephone {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -619px!important;
+}
+
+.light-telephone_add {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -619px!important;
+}
+
+.light-telephone_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -619px!important;
+}
+
+.light-telephone_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -619px!important;
+}
+
+.light-telephone_error {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -619px!important;
+}
+
+.light-telephone_go {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -619px!important;
+}
+
+.light-telephone_key {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -619px!important;
+}
+
+.light-telephone_link {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -619px!important;
+}
+
+.light-television {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -619px!important;
+}
+
+.light-television_add {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -619px!important;
+}
+
+.light-television_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -619px!important;
+}
+
+.light-text_align_center {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -619px!important;
+}
+
+.light-text_align_justify {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -619px!important;
+}
+
+.light-text_align_left {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -641px!important;
+}
+
+.light-text_align_right {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -641px!important;
+}
+
+.light-text_allcaps {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -641px!important;
+}
+
+.light-text_bold {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -641px!important;
+}
+
+.light-text_columns {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -641px!important;
+}
+
+.light-text_dropcaps {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -641px!important;
+}
+
+.light-text_heading_1 {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -641px!important;
+}
+
+.light-text_heading_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -641px!important;
+}
+
+.light-text_heading_3 {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -641px!important;
+}
+
+.light-text_heading_4 {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -641px!important;
+}
+
+.light-text_heading_5 {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -641px!important;
+}
+
+.light-text_heading_6 {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -641px!important;
+}
+
+.light-text_horizontalrule {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -641px!important;
+}
+
+.light-text_indent {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -641px!important;
+}
+
+.light-text_indent_remove {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -641px!important;
+}
+
+.light-text_italic {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -641px!important;
+}
+
+.light-text_kerning {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -641px!important;
+}
+
+.light-text_letter_omega {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -641px!important;
+}
+
+.light-text_letterspacing {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -641px!important;
+}
+
+.light-text_linespacing {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -641px!important;
+}
+
+.light-text_list_bullets {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -641px!important;
+}
+
+.light-text_list_numbers {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -641px!important;
+}
+
+.light-text_lowercase {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -641px!important;
+}
+
+.light-text_padding_bottom {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -641px!important;
+}
+
+.light-text_padding_left {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -641px!important;
+}
+
+.light-text_padding_right {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -641px!important;
+}
+
+.light-text_padding_top {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -641px!important;
+}
+
+.light-text_replace {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -641px!important;
+}
+
+.light-text_signature {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -641px!important;
+}
+
+.light-text_smallcaps {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -641px!important;
+}
+
+.light-text_strikethrough {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -641px!important;
+}
+
+.light-text_subscript {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -663px!important;
+}
+
+.light-text_superscript {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -663px!important;
+}
+
+.light-text_underline {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -663px!important;
+}
+
+.light-text_uppercase {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -663px!important;
+}
+
+.light-textfield {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -663px!important;
+}
+
+.light-textfield_add {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -663px!important;
+}
+
+.light-textfield_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -663px!important;
+}
+
+.light-textfield_key {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -663px!important;
+}
+
+.light-textfield_rename {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -663px!important;
+}
+
+.light-thumb_down {
+    width: 16px;
+    height: 16px;
+    background-position: -201px -663px!important;
+}
+
+.light-thumb_up {
+    width: 16px;
+    height: 16px;
+    background-position: -223px -663px!important;
+}
+
+.light-tick {
+    width: 16px;
+    height: 16px;
+    background-position: -245px -663px!important;
+}
+
+.light-time {
+    width: 16px;
+    height: 16px;
+    background-position: -267px -663px!important;
+}
+
+.light-time_add {
+    width: 16px;
+    height: 16px;
+    background-position: -289px -663px!important;
+}
+
+.light-time_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -311px -663px!important;
+}
+
+.light-time_go {
+    width: 16px;
+    height: 16px;
+    background-position: -333px -663px!important;
+}
+
+.light-timeline_marker {
+    width: 16px;
+    height: 16px;
+    background-position: -355px -663px!important;
+}
+
+.light-transmit {
+    width: 16px;
+    height: 16px;
+    background-position: -377px -663px!important;
+}
+
+.light-transmit_add {
+    width: 16px;
+    height: 16px;
+    background-position: -399px -663px!important;
+}
+
+.light-transmit_blue {
+    width: 16px;
+    height: 16px;
+    background-position: -421px -663px!important;
+}
+
+.light-transmit_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -443px -663px!important;
+}
+
+.light-transmit_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -465px -663px!important;
+}
+
+.light-transmit_error {
+    width: 16px;
+    height: 16px;
+    background-position: -487px -663px!important;
+}
+
+.light-transmit_go {
+    width: 16px;
+    height: 16px;
+    background-position: -509px -663px!important;
+}
+
+.light-tux {
+    width: 16px;
+    height: 16px;
+    background-position: -531px -663px!important;
+}
+
+.light-user {
+    width: 16px;
+    height: 16px;
+    background-position: -553px -663px!important;
+}
+
+.light-user_add {
+    width: 16px;
+    height: 16px;
+    background-position: -575px -663px!important;
+}
+
+.light-user_comment {
+    width: 16px;
+    height: 16px;
+    background-position: -597px -663px!important;
+}
+
+.light-user_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -619px -663px!important;
+}
+
+.light-user_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -641px -663px!important;
+}
+
+.light-user_female {
+    width: 16px;
+    height: 16px;
+    background-position: -663px -663px!important;
+}
+
+.light-user_go {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -3px!important;
+}
+
+.light-user_gray {
+    width: 16px;
+    height: 16px;
+    background-position: -679px -25px!important;
+}
+
+.light-user_green {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -47px!important;
+}
+
+.light-user_orange {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -69px!important;
+}
+
+.light-user_red {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -91px!important;
+}
+
+.light-user_suit {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -113px!important;
+}
+
+.light-vcard {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -135px!important;
+}
+
+.light-vcard_add {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -157px!important;
+}
+
+.light-vcard_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -179px!important;
+}
+
+.light-vcard_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -201px!important;
+}
+
+.light-vector {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -223px!important;
+}
+
+.light-vector_add {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -245px!important;
+}
+
+.light-vector_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -267px!important;
+}
+
+.light-wand {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -289px!important;
+}
+
+.light-weather_clouds {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -311px!important;
+}
+
+.light-weather_cloudy {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -333px!important;
+}
+
+.light-weather_lightning {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -355px!important;
+}
+
+.light-weather_rain {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -377px!important;
+}
+
+.light-weather_snow {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -399px!important;
+}
+
+.light-weather_sun {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -421px!important;
+}
+
+.light-webcam {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -443px!important;
+}
+
+.light-webcam_add {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -465px!important;
+}
+
+.light-webcam_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -487px!important;
+}
+
+.light-webcam_error {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -509px!important;
+}
+
+.light-world {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -531px!important;
+}
+
+.light-world_add {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -553px!important;
+}
+
+.light-world_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -575px!important;
+}
+
+.light-world_edit {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -597px!important;
+}
+
+.light-world_go {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -619px!important;
+}
+
+.light-world_link {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -641px!important;
+}
+
+.light-wrench {
+    width: 16px;
+    height: 16px;
+    background-position: -685px -663px!important;
+}
+
+.light-wrench_orange {
+    width: 16px;
+    height: 16px;
+    background-position: -3px -685px!important;
+}
+
+.light-xhtml {
+    width: 16px;
+    height: 16px;
+    background-position: -25px -685px!important;
+}
+
+.light-xhtml_add {
+    width: 16px;
+    height: 16px;
+    background-position: -47px -685px!important;
+}
+
+.light-xhtml_delete {
+    width: 16px;
+    height: 16px;
+    background-position: -69px -685px!important;
+}
+
+.light-xhtml_go {
+    width: 16px;
+    height: 16px;
+    background-position: -91px -685px!important;
+}
+
+.light-xhtml_valid {
+    width: 16px;
+    height: 16px;
+    background-position: -113px -685px!important;
+}
+
+.light-zoom {
+    width: 16px;
+    height: 16px;
+    background-position: -135px -685px!important;
+}
+
+.light-zoom_in {
+    width: 16px;
+    height: 16px;
+    background-position: -157px -685px!important;
+}
+
+.light-zoom_out {
+    width: 16px;
+    height: 16px;
+    background-position: -179px -685px!important;
+}
